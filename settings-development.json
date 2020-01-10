@@ -1,0 +1,34 @@
+{
+  "public": {
+    "graphQL": {
+      "httpUri": "http://localhost:3000/graphql"
+    },
+    "productName": "KRC",
+    "copyrightStartYear": "2019",
+    "productAddress": "Qasym Amanzholov St 34, Nur-Sultan 020000"
+  },
+  "private": {
+    "MAIL_URL": "smtp://postmaster@sandboxa7a9c3bd3ecd419996c3055b60c04de1.mailgun.org:10a6689b97f009fed168f4845c79d22d-713d4f73-cde3be4a@smtp.mailgun.org:587",
+    "OAuth": {
+      "facebook": {
+        "enabled": true,
+        "appId": "",
+        "secret": "",
+        "loginStyle": "popup"
+      },
+      "google": {
+        "enabled": true,
+        "clientId": "",
+        "secret": "",
+        "loginStyle": "popup"
+      },
+      "github": {
+        "enabled": true,
+        "clientId": "",
+        "secret": "",
+        "loginStyle": "popup"
+      }
+    },
+    "supportEmail": "Customer Support <tadilbek11kz@gmail.com>"
+  }
+}
